@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/krone/ML/YOLO/data/Train.txt  
+valid  = /home/krone/ML/YOLO/data/Test.txt  
+names = data/inria.names
+backup = backup/
+

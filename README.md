@@ -191,4 +191,4 @@ Using (predict bounding_boxes and Ground_Truth)'s IOU > 0.5 is good to evaluate 
 |-----------|--------|---------------------|-----------|
 | 99.37%    | 80.48% | 0.63%               | 19.52%    |
 
-The detection effect of pedestrian detection based on YOLO v3 is very nice, the detection rate (recall rate) of pedestrian detection is very high, and the accuracy rate reaches 99.37%, almost all  predict bounding_boxes are right.
+The detection effect of pedestrian detection based on YOLO v3 is very nice, the detection rate (recall rate) of pedestrian detection is very high, and the precision ratio reaches 99.37%, almost all  predict bounding_boxes are right.

@@ -181,7 +181,7 @@ python ./evaluate_the_detector.py
 
 Here are some results to share.
 
-For training model, loss curve plot as follows, it's 3000 to 135249 because it start with a bigger loss.
+For training model, loss curve plot as follows, it's 3000 to 135249 because it start with a high loss.
 
 <img src="./README/README0.png" width="400" height="334">
 

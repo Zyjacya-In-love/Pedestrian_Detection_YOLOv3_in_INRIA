@@ -140,7 +140,7 @@ Copy Darknet's executable file(darknet) to this folder. Then let's training. Don
 
 #### 2.7. loss curve plot
 
-Extract the log of loss and draw the log curve, but there is nan in loss, get rid of nan. So, extract the training log, remove the non-parsed log and format the log file to generate a new log file for visual tool drawing. And then Draw the loss curve.
+Extract the log of loss and draw the log curve, but there is nan in loss, get rid of nan. So, extract the training log, remove the non-parsed log and format the log file to generate a new log file for python visual script drawing. And then Draw the loss curve.
 
 ```bash
 python ./extract_log.py

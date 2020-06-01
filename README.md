@@ -8,7 +8,7 @@
             * [1\.1\. download Darknet](#11-download-darknet)
             * [1\.2\. change Makefile](#12-change-makefile)
             * [1\.3\. Compile the source code](#13-compile-the-source-code)
-        * [2\.Training YOLOv3](#2training-yolov3)
+        * [2\. Training YOLOv3](#2training-yolov3)
             * [2\.1\. make YOLO data](#21-make-yolo-data)
             * [2\.2\. take YOLO label](#22-take-yolo-label)
             * [2\.3\. Make the list files needed for Darknet](#23-make-the-list-files-needed-for-darknet)
@@ -29,9 +29,14 @@
 
 Pedestrian Detection using YOLOv3 based on Darknet in INRIA. For YOLO detector's predict bounding-boxes, apply NMS(non-maximum suppression) to remove redundant and overlapping bounding boxes.
 
-For the model I trained, I push it on `pan.baidu.com`, it's a weight that has been trained 1.3 million times.(234.9M)
+For the model I trained, I push it on `pan.baidu.com` and `drive.google.com`, it's a weight that has been trained 1.3 million times.(234.9M)
 
-Download link: [https://pan.baidu.com/s/1ceRlQIniLrG-9P_GKODaEQ](https://pan.baidu.com/s/1ceRlQIniLrG-9P_GKODaEQ) password: 8546
+Download link:
+
+1. Baidu Cloud Disk(中文) : [https://pan.baidu.com/s/1ceRlQIniLrG-9P_GKODaEQ](https://pan.baidu.com/s/1ceRlQIniLrG-9P_GKODaEQ) password: 8546
+
+2. Google Drive : [https://drive.google.com/file/d/1MXOqmZH7OtUpNWu60GBgxpkikgfc70My/view?usp=sharing](https://drive.google.com/file/d/1MXOqmZH7OtUpNWu60GBgxpkikgfc70My/view?usp=sharing)
+
 
 ## Dataset
 
@@ -64,7 +69,7 @@ OPENCV=1
 make
 ```
 
-### 2.Training YOLOv3
+### 2. Training YOLOv3
 
 #### 2.1. make YOLO data
 

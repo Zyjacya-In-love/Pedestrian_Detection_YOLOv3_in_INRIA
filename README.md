@@ -33,14 +33,20 @@ For the model I trained, I push it on `pan.baidu.com` and `drive.google.com`, it
 
 Download link:
 
-1. Baidu Cloud Disk(中文) : [https://pan.baidu.com/s/1ceRlQIniLrG-9P_GKODaEQ](https://pan.baidu.com/s/1ceRlQIniLrG-9P_GKODaEQ) password: 8546
+1. Baidu Cloud Disk(中文) : [https://pan.baidu.com/s/1kDJqaa6NeWalzxzOhnorrQ](https://pan.baidu.com/s/1kDJqaa6NeWalzxzOhnorrQ) password: zwku
 
 2. Google Drive : [https://drive.google.com/file/d/1MXOqmZH7OtUpNWu60GBgxpkikgfc70My/view?usp=sharing](https://drive.google.com/file/d/1MXOqmZH7OtUpNWu60GBgxpkikgfc70My/view?usp=sharing)
 
 
 ## Dataset
 
-INRIA Person Dataset link: [http://pascal.inrialpes.fr/data/human/](http://pascal.inrialpes.fr/data/human/)
+INRIA Person Dataset link:
+
+1. official link : [http://pascal.inrialpes.fr/data/human/](http://pascal.inrialpes.fr/data/human/)
+
+2. Baidu Cloud Disk(中文) : [https://pan.baidu.com/s/12TYw-8U9sxz9cUu2vxzvGQ](https://pan.baidu.com/s/12TYw-8U9sxz9cUu2vxzvGQ) password: jxqu
+
+2. my Google Drive : [https://drive.google.com/file/d/1wTxod2BhY_HUkEdDYRVSuw-nDuqrgCu7/view?usp=sharing](https://drive.google.com/file/d/1wTxod2BhY_HUkEdDYRVSuw-nDuqrgCu7/view?usp=sharing)
 
 ## Workflow
 
